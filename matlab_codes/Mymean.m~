@@ -1,0 +1,11 @@
+function[V] = Mymean(X)
+
+Sum = 0;
+for i=1:size(X)
+    Sum = Sum + X(i);
+end
+
+
+
+
+end
